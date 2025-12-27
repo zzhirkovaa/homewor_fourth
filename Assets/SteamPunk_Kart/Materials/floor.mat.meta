@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c79751d16d449e64ab9c26c48fd6cae8
+timeCreated: 1458674509
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58941
+  packageName: SteamPunk_Kart
+  packageVersion: 1.0
+  assetPath: Assets/SteamPunk_Kart/Materials/floor.mat
+  uploadId: 109058

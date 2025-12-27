@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de54609c75c97ce4caa5735c97e6dd47
+timeCreated: 1458674570
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58941
+  packageName: SteamPunk_Kart
+  packageVersion: 1.0
+  assetPath: Assets/SteamPunk_Kart/SteamPunk.unity
+  uploadId: 109058

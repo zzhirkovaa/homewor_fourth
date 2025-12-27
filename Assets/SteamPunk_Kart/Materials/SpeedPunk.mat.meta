@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46abc7d3affcbce4591b9d78f3ad26d5
+timeCreated: 1458672952
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58941
+  packageName: SteamPunk_Kart
+  packageVersion: 1.0
+  assetPath: Assets/SteamPunk_Kart/Materials/SpeedPunk.mat
+  uploadId: 109058
